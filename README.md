@@ -4,6 +4,8 @@
 
 # OptionTap
 
+[![CI](https://github.com/IslamovMukhammad/OptionTap/actions/workflows/ci.yml/badge.svg)](https://github.com/IslamovMukhammad/OptionTap/actions/workflows/ci.yml)
+
 **Double-tap ⌥ and your clipboard history and recent screenshots are right there.**
 
 A Spotlight-style panel for macOS. Free, open source, lives in the menu bar.
